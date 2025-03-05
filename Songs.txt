@@ -3,8 +3,12 @@ Tu jane na
 
 Mil kar v hum na mile
 Tu jane na 
+<<<<<<< HEAD
 tu jane na
 
 some commits happend
 
 ------------------------------------
+=======
+tu jane na
+>>>>>>> b6482e82200eb179bfdc71c706c1df6033b27d13
